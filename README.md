@@ -1,3 +1,0 @@
-clean slate
-
-hw
